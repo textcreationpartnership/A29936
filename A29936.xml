@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>St. Paul's triumph in his sufferings for Christ with some directions how a Christian ought to behave himself under, and may reap advantage by, his sufferings / by Matthew Bryan.</title>
+            <author>Bryan, Matthew, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29936</idno>
+            <idno type="STC">Wing B5248</idno>
+            <idno type="STC">ESTC R36322</idno>
+            <idno type="EEBO-CITATION">15666302</idno>
+            <idno type="OCLC">ocm 15666302</idno>
+            <idno type="VID">104295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1181:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>St. Paul's triumph in his sufferings for Christ with some directions how a Christian ought to behave himself under, and may reap advantage by, his sufferings / by Matthew Bryan.</title>
+                  <author>Bryan, Matthew, d. 1699.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCII [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paul, --  the Apostle, Saint.</term>
+               <term>Bible. --  N.T. --  Ephesians IV, 1 --  Sermons.</term>
+               <term>Christian life.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104295:1" rendition="simple:additions"/>
+            <pb facs="tcp:104295:1" rendition="simple:additions"/>
+            <p>S<hi rend="sup">t</hi>. PAUL's Triumph IN HIS SUFFERINGS FOR CHRIST. With ſome Directions how a Chriſtian ought to behave himſelf under, and may reap Advantage by his Sufferings.</p>
+            <p>By <hi>MATTHEW BRYAN,</hi> LL. D.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, for the Author, MDCXCII.</p>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb facs="tcp:104295:2" rendition="simple:additions"/>
+            <pb facs="tcp:104295:2"/>
+            <head>ECCLESIAE</head>
+            <lg>
+               <l>
+                  <hi>Sub</hi> Cruce <hi>gementi, ac Simul triumphanti,</hi>
+               </l>
+               <l>
+                  <hi>Ideo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> cis Statum Gloriae glorioſae,</hi>
+               </l>
+               <l>Sole <hi>(Portentum aliud Caelo!) amictae,</hi> Lunam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>conculcanti,</hi>
+               </l>
+               <l>
+                  <hi>Duodecim</hi> Stellarum <hi>Coronâ Capita redimitae,</hi>
+               </l>
+               <l>
+                  <hi>Mundo, cum Chariſſimo</hi> Crucifixo, <hi>beatóque</hi> Paulo, <hi>crucifixae,</hi>
+               </l>
+               <l>
+                  <hi>Precibus Lachymiſque, Armis ſuis, militanti,</hi>
+               </l>
+               <l>Satanam, <hi>ejúſque omnia Opera, fideliter renuncianti,</hi>
+               </l>
+               <l>Schiſmatis <hi>aequè ac</hi> Haereſe <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Crimina odio habenti,</hi>
+               </l>
+               <l>Gregi, <hi>proh dolor! parvulo,</hi>
+               </l>
+               <l>
+                  <hi>Ei veró, cui evangelizavit</hi> Chriſtus, <hi>ſimillimo,</hi>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ergò (cujus noluit facere naufragium)</hi> Mundana <hi>relinquenti,</hi>
+               </l>
+               <l>Providentiâ, <hi>quae Omnia curat, imò Aviculas &amp; Campi</hi>
+               </l>
+               <l>
+                  <hi>Floſculos, alacriter victitanti,</hi>
+               </l>
+               <l>
+                  <hi>Praecepta</hi> Dei, <hi>Fidémque</hi> Jeſu, <hi>mirâ tolerantiâ, obſervanti,</hi>
+               </l>
+               <l>
+                  <hi>Doctrinam, Vitám<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Chriſti ſtrenno aſſerenti ac imitanti,</hi>
+               </l>
+               <l>
+                  <hi>Priſtinum Omnipotentis Cultum, primaevâ Pietate, celebranti,</hi>
+               </l>
+               <l>
+                  <hi>Spiritu ac Veritate</hi> Patrem <hi>Caeleſtem adoranti,</hi>
+               </l>
+               <l>
+                  <hi>S. S.</hi> Spiritûs <hi>Arrhabonem accipienti,</hi>
+               </l>
+               <l>
+                  <hi>Ac</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>anhelanti,</hi>
+               </l>
+               <l>M. B.</l>
+               <l>
+                  <hi>Indignus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Hanc, qualem qualem, Conciunculam,</hi>
+               </l>
+               <l>
+                  <hi>In grati, fidíque Animi teſtimonium</hi>
+               </l>
+               <l>
+                  <hi>Humillimé dicat conſecrátque.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104295:3"/>
+            <pb facs="tcp:104295:3"/>
+            <head>S<hi rend="sup">t</hi>. PAUL's Triumph IN HIS SUFFERINGS FOR CHRIST.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Eph. IV. 1.</hi>
+                  </bibl>
+                  <p>I therefore the Priſoner of the Lord, beſeech you that ye walk worthy of the Vocation wherewith ye are called.</p>
+               </q>
+            </epigraph>
+            <p>THE Illative <hi>therefore</hi> naturally points to ſomewhat that goes before; and for this we muſt look back as far as the beginning of the former Chapter. <hi>For this Cauſe</hi>—that is, conſidering the many glorious Priviledges, which by Virtue of your Relation to Chriſt, you are honour'd with: —<hi>For this cauſe, I Paul the Priſoner of Jeſus Chriſt for you Gentiles</hi>—And then he makes a Digreſſion, explaining and magnifying his Of<g ref="char:EOLhyphen"/>fice, wherein, by Commiſſion from <hi>Chriſt,</hi> he ſtood more particularly related to them. He makes, I
+<pb n="2" facs="tcp:104295:4"/>ſay, a Digreſſion in a long Parentheſis as far as the beginning of the 4th. Chapter, where he re<g ref="char:EOLhyphen"/>ſumes his Argument, from which he abruptly brake off before:—<hi>I therefore the Priſoner of the Lord</hi>—Which is a Repetition, or Recollection of his former Words at the firſt Verſe of the foregoing Chapter—<hi>For this cauſe I Paul the Priſoner of Jeſus Chriſt for you Gentiles.</hi>—For the Connection of which, to make it ſenſe, we muſt have regard to the Words at the firſt Verſe of the 4th Chapter, —<hi>beſeech you that ye walk worthy,</hi> &amp;c.—<hi>I Paul the Priſoner of Jeſus Chriſt for your Gentiles—beſeech you that ye walk worthy of the Vocation wherewith ye are called.</hi> So here, <hi>I therefore the Priſoner of the Lord</hi> (which is a Repetition of the former Words) <hi>be<g ref="char:EOLhyphen"/>ſeech you that ye walk worthy of the Vocation wherewith ye are called.</hi> In which words there are theſe two things conſiderable.</p>
+            <p n="1">1ſt. The Character which St. <hi>Paul</hi> chooſeth to recommend himſelf by, and enforce his following Exhortation.—<hi>I therefore the Priſoner of the Lord.</hi>—</p>
+            <p n="2">2dly. Here's the Exhortation it ſelf, and that is to a ſutable and agreeable Converſation, worthy of the Chriſtian Vocation:—<hi>I beſeech you that ye walk worthy of the Vocation wherewith ye are called.</hi>
+            </p>
+            <p>The Time will not permit me to ſpeak diſtinctly to each of theſe. I ſhall therefore inſiſt upon the former, and only touch upon the latter in the Application.</p>
+            <p>The firſt thing which here offers it ſelf to our conſideration (and which ſhall be the ſubject of my enſuing Diſcourſe) is,</p>
+            <p n="1">
+               <pb n="3" facs="tcp:104295:4"/> 1ſt. The Character which St. <hi>Paul</hi> chooſeth to recommend himſelf by, and enforce his following Exhortation.—<hi>I the Priſoner of the Lord.</hi>—</p>
+            <p>What? may ſome ſay, could St. <hi>Paul</hi> chooſe no better, no other Character than that of a <hi>Priſoner!</hi> a very unpromiſing, uninviting Character to indear or recommend, very unlikely to gain Eſteem, or Reſpect, or Credit in the World, unlikely to gain Proſelytes, or draw Diſciples after him! For, who is in love with Priſons and Confinement? who is fond of noyſome Goals, and Dungeons of darkneſs? who admires Chains, and Fetters, and Shackles of Iron, the Ornament, the Dreſs of <hi>Priſoners,</hi> who are fed with the <hi>Bread of Adverſity,</hi> and the <hi>Water of Affliction,</hi> whoſe Muſick is ſighs and groans, and their recreation whips and ſcourges with St. <hi>Paul</hi> and <hi>Silas,</hi> or the Stocks with <hi>Joſeph,</hi> where they <hi>hurt his Feet, the Iron entring into his Soul?</hi>
+            </p>
+            <p>The World is apt to worſhip the riſing Sun, to adore growing Greatneſs and Magnificence, to court, and be influenc'd by Riches, Power and Grandeur; and conſequently to deſpiſe Poverty and Meanneſs, Miſery and afflicted Innocence.</p>
+            <p>How unlikely is this Lecture, this Epiſtle to prevail with the Auditors, which is deliver'd, which is ſent by <hi>Paul the Priſoner,</hi> who talks of Riches and Honour, and Power and Liberty for his Diſci<g ref="char:EOLhyphen"/>ples, when himſelf is poor, and deſpiſed, and weak and in bonds? who would run to him for help, who cannot help himſelf? who would go to him for riches, who is poor, for honour, who is deſpiſed, for power, who is weak, or for liberty, who is a <hi>Priſoner?</hi>
+            </p>
+            <pb n="4" facs="tcp:104295:5"/>
+            <p> How impolitickly, how imprudently and indiſ<g ref="char:EOLhyphen"/>creetly does St. <hi>Paul</hi> make his choice here of a Character to recommend himſelf by to the good O<g ref="char:EOLhyphen"/>pinion and Affections of Men? How unplauſible, unpromiſing, and uninviting a Title is this, <hi>I the Priſoner of the Lord?</hi>
+            </p>
+            <p>'Tis true, it is ſo in the Eye of the World, which is govern'd and influenc'd by Senſe, and outward Appearance, and blindly led by Brutal Paſſions and Appetites. Thus when our <hi>Saviour</hi> exerted his Power as a King, in working Miracles, caſting out Devils, healing the Diſeaſed, raiſing the Dead, and feeding the Living at the Expence of a Miracle, entertaining ſo vaſt a Multitude, ſo many thouſands at that noble, bounteous Feaſt in the <hi>Wilderneſs,</hi> where a few Loaves and Fiſhes were miraculouſly multiplied into a prodigious Plenty, and abundant Overplus, after the numerous Gheſts had eaten and were ſatisfied: when, I ſay, He thus exerted his Power as a King, in working Miracles, and doing Wonders, he wanted not Followers, he had plenty of Diſciples, who in ſholes and crowds thronged after him: but when he preach'd the Doctrine of the <hi>Croſs,</hi> which his Diſciples muſt take up and follow him; when he told them of ſuffering, and tribulation, and a ſevere perſecution, which they muſt undergo for his ſake and the Goſpel's, of which he had already begun, and would ere long give 'em a more glori<g ref="char:EOLhyphen"/>ous Example; then <hi>they are offended at him,</hi> they halt, and ſtagger, and run from him; multitudes <hi>went back, and walked no more with him;</hi> as the Evangeliſt St. <hi>John</hi> tells us in the 6th. Chapter of his Goſpel at the 66th. Verſe.</p>
+            <pb n="5" facs="tcp:104295:5"/>
+            <p> Such an Enemy to the <hi>Croſs</hi> was St. <hi>Paul,</hi> him<g ref="char:EOLhyphen"/>ſelf before his Converſion; but after it, his Eyes being anointed with that Sovereign Eye-ſalve, pre<g ref="char:EOLhyphen"/>ſcribed by the <hi>wiſe Phyſician,</hi> receiving <hi>an <g ref="char:V">Ʋ</g>nction from the Holy One,</hi> he ſaw with other Eyes, had a new Idea, a new repreſentation of Objects, which were ſet in a truer and better Light, and learnt to prize and value what before he deſpiſed, of whoſe worth he had not skill enough to make a true Judgement and Eſtimate.</p>
+            <p>No wonder then that he makes choice, and that wiſely enough, (as I hope I ſhall convince you be<g ref="char:EOLhyphen"/>fore I have done) of this Character here, <hi>the Pri<g ref="char:EOLhyphen"/>ſoner of the Lord.</hi> And this he does, I conceive, for theſe following Reaſons.</p>
+            <p n="1">1ſt. He looks upon this Character, not as mat<g ref="char:EOLhyphen"/>ter of diſgrace, but as the greateſt, as the higheſt honour.</p>
+            <p n="2">2dly. Herein he gives an inſtance of his being conformed to <hi>the Captain of our Salvation,</hi> of his being made partaker of the ſufferings of Chriſt.</p>
+            <p n="3">3dly. Herein he ſhews his reſemblance <hi>to the noble Army of Martyrs,</hi> the early ſufferers before the Incarnation.</p>
+            <p n="4">4ly. Hereby he gives an evidence of his fellow<g ref="char:EOLhyphen"/>ſhip with the ſuffering Saints and Martyrs ſince the Incarnation, and Crucifixion of Chriſt.</p>
+            <p n="5">
+               <pb n="6" facs="tcp:104295:6"/> 5ly. 'Tis a Preſumption, if not a Demonſtration of the Truth of that Doctrine which he taught and deliver'd.</p>
+            <p n="6">6ly. Suffering is the Touch-ſtone of Vertue, and the Tryal of Sincerity.</p>
+            <p n="1">1ſt. He looks upon this Character, not as matter of diſgrace, but as the greateſt, as the higheſt Honour.</p>
+            <p>—<hi>The Priſoner of the Lord,</hi> or for the Lord, or for the Lord's ſake—What greater Honour can there be! To be a <hi>Priſoner</hi> for his ſake, who is the Beloved of the Father, who is <hi>King of Kings,</hi> and <hi>Lord of Lords,</hi> who is <hi>exalted far above Princi<g ref="char:EOLhyphen"/>palities and Powers, and every name that is named, to whom the whole Family in Heaven and Earth do how and obey;</hi> to be a <hi>Priſoner</hi> in his quarrel, and to ſuffer for him, what greater Honour can there be! to ſuffer for him, who has ſuffer'd for all, and is the great <hi>Redeemer</hi> and <hi>Saviour</hi> of Mankind, and who ſhall come to Judge the World, whoſe Word ſhall give Law to the Univerſe, and deter<g ref="char:EOLhyphen"/>mine the everlaſting State both of Men and Devils, from which there is no Appeal for ever, at whoſe command and direction rewards and puniſhments ſhall be variouſly diſtributed to the many thouſands and millions of the Sons and Daughters of <hi>Adam;</hi> to ſuffer for him, and in his quarrel, what greater Honour can there be!</p>
+            <p>To be <hi>the Priſoner of the Lord,</hi> St. <hi>Paul</hi> eſteems as a more honourable, worthier Title than that of a learned <hi>Jew,</hi> or a preciſe <hi>Phariſee,</hi> a Diſciple, a
+<pb n="7" facs="tcp:104295:6"/>Scholar of <hi>Gamaliel's,</hi> or a Doctor, yea, an Apoſtle of the <hi>Gentiles;</hi> yea, than the Son of a King, an Heir to an Empire, or a mighty Potentate, whoſe Scepters and Chains of Gold he lookt upon to be leſs beautiful than his Fetters of Iron. Every Link in his Chain was more ornamental than the Jewels in the Diadems, in the Crowns of Princes.
+<note place="margin">
+                  <hi>Rom.</hi> 1.16.</note> 
+               <hi>I am not aſham'd,</hi> ſays he, <hi>of the Goſpel of Chriſt. We glory in Tribulations. I am not aſham'd of this Chain.</hi>
+               <note place="margin">5.3. <hi>Gal.</hi> 6.14.</note> 
+               <hi>God forbid,</hi> ſays he, <hi>that I ſhould glory ſave in the Croſs of our Lord Jeſus Chriſt, by whom the World is crucified unto me, and I unto the World. I take pleaſure in infirmities, in reproaches, in neceſſities, in perſecu<g ref="char:EOLhyphen"/>tions, in diſtreſſes for Chriſt's ſake;</hi> as it is in the 2 <hi>Cor.</hi> 12, 10. He eſteems it as a piece of Honour, a Royal Grant and Priviledge to ſuffer for Chriſt. <hi>
+                  <g ref="char:V">Ʋ</g>nto you it is given</hi> (ſays he to the Philippians) <hi>in the behalf of Chriſt, not only to believe on him,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 1.19.</note> 
+               <hi>but alſo to ſuffer for his ſake, having the ſame conflict which ye ſaw in me, and now here to be in me.</hi> He exults, and rejoyces, and bleſſes God that he is <hi>counted worthy to ſuffer ſhame for his Name!</hi> But that which others counted ſhame he counted Glory. So far was he from ſtartling at ſufferings, at the Name of Priſon and Confinement, or being aſham'd of the Character of <hi>Priſoner</hi> for the ſake of Chriſt, that he breaks out into a vehement Paſſion, and holy Anger with thoſe who (out of an unſeaſonable, ill-timed Chari<g ref="char:EOLhyphen"/>ty and Pity, and deep concern for his Temporal Intereſt, which they paſſionately advis'd him to conſult, like <hi>Peter</hi> of Old, <hi>Maſter pity thy ſelf</hi>) diſſwaded him from going up to <hi>Jeruſalem</hi> for fear of thoſe Bonds and Impriſonment, which the
+<pb n="8" facs="tcp:104295:7"/>Prophet <hi>Agabus</hi> ſaid did await him there. <hi>What mean ye,</hi> ſays he, <hi>to weep and to break my heart, for I am ready not to be bound only, but alſo to dye at Jeruſalem for the Name of the Lord Jeſus.</hi> Act. 21.13.</p>
+            <p n="2">2ly. Herein he gives an Inſtance of his being con<g ref="char:EOLhyphen"/>formed to the <hi>Captain of our Salvation,</hi> of his being made <hi>partaker of the ſufferings of Chriſt:</hi> who is ſtil'd <hi>Heb.</hi> 2.10. <hi>The Captain of our Salvation, who was made perfect by ſufferings.</hi> Now the Souldier muſt be conformable to his Captain. He muſt engage in the ſame War, he muſt enter the ſame bloody Field, and fight the ſame Battles, and againſt the ſame Enemies; he muſt run the ſame danger, and undergo the ſame hardſhips that his Captain does: or elſe he is unworthy of the Name, or Title, or relation of a Souldier, and inſtead of being re<g ref="char:EOLhyphen"/>warded, deſerves to be puniſhed. Now St. <hi>Paul</hi> was a Souldier, yea a great Officer, and Commander under the <hi>Captain-General</hi> of the Spiritual Forces. And he tells us <hi>Phil.</hi> 3.10. that he deſir'd nothing more than to <hi>have fellowſhip with him in his ſufferings, and to be made conformable unto his death.</hi> And every Chriſtian is bound according to his meaſure and capacity to do the ſame thing. Every Chri<g ref="char:EOLhyphen"/>ſtian is a Spiritual Souldier, and has oblig'd and en<g ref="char:EOLhyphen"/>gag'd himſelf <hi>to fight manfully under the Banner of Chriſt.</hi> The Apoſtle makes ſuffering to be ante<g ref="char:EOLhyphen"/>cedaneous to glorification, nay to be the condition of inheriting Glory, <hi>Rom.</hi> 8.17. obſerve the Gra<g ref="char:EOLhyphen"/>dation there. At the 16th. Verſe the Apoſtle ſays, <hi>The Spirit it ſelf beareth witneſs with our Spirit, that
+<pb n="9" facs="tcp:104295:7"/>we are the Children of God. And if Children, then Heirs; Heirs with God, and joynt Heirs with Chriſt.</hi> It follows, <hi>if ſo be that we ſuffer with him, that we may be alſo glorified together.</hi> 'Tis an undoubted Truth, that the Chriſtian that refuſes to <hi>ſuffer</hi> with Chriſt ſhall not be <hi>glorified</hi> with him.</p>
+            <p>'Tis true, a Chriſtian is not bound to ſeek, to court ſuffering, to run himſelf into the Fire. If he is perſecuted in one place, he is permitted to fly to another. But if he cannot eſcape, if he cannot fly, he muſt ſuffer. If the <hi>Croſs</hi> be not only offer'd to, but laid upon his Shoulder, he muſt not baſely caſt it off. If the <hi>Crown of Thorns</hi> be platted for and put upon his Head, he muſt not refuſe to wear it. If a Chriſtian is brought to that ſtreight with <hi>Peter,</hi> that either he muſt take up the <hi>Croſs,</hi> or deny his Maſter, either ſuffer or ſin, it is eaſie to de<g ref="char:EOLhyphen"/>termine which ſide to take, and what to do. In this caſe a Chriſtian is indiſpenſibly bound to ſuffer, and he that declines it, refuſes to ſuffer with <hi>Chriſt,</hi> and conſequently cannot expect to be glorified to<g ref="char:EOLhyphen"/>gether with him.</p>
+            <p>But perhaps you'll ſay, God forbid that we ſhould refuſe to ſuffer with <hi>Chriſt.</hi> We are ready to ſuf<g ref="char:EOLhyphen"/>fer Martyrdom for him, to dye for him, to burn at a ſtake rather than deny him, or renounce our Religion, in which we were baptiz'd and edu<g ref="char:EOLhyphen"/>cated.</p>
+            <p>'Tis well reſolv'd indeed, but 'tis ſooner ſaid than done. There are divers ſorts of ſufferings for <hi>Chriſt.</hi> There is a ſort of Martyrdom beſides burning at a Stake. The Chriſtian that reſolves to ſuffer rather than ſin is a <hi>Martyr in Will.</hi> And
+<pb n="10" facs="tcp:104295:8"/>that chooſes actually to ſuffer rather than ſin, is a <hi>Martyr in deed.</hi>
+            </p>
+            <p>Now examine the ſincerity of your Reſolution in leſſer Inſtances, which are below the <hi>greater Martyrdom,</hi> ſuffering death for the ſake of <hi>Chriſt.</hi> He that is poor, and to help himſelf will ſteal, refuſes to ſuffer with <hi>Chriſt.</hi> He that to avoid the loſs of a little trival Profit, or to ſecure his Eſtate, when he is threatned with the loſs of it, will do unlawful things, will <hi>lye,</hi> and <hi>ſwear,</hi> or <hi>forſwear,</hi> and act againſt his Conſcience, and the word of God, and his own words too, he denys <hi>Chriſt,</hi> and refuſes to ſuffer with him, and conſequently cannot ex<g ref="char:EOLhyphen"/>pect to be glorified together. He refuſes to <hi>fight under the Banner of Chriſt,</hi> notwithſtanding his Vow; but is a perfidious, baſe Deſerter, and runs over to the Enemies Camp, and therefore cannot expect to be rewarded by his own <hi>General,</hi> to whom he has ſworn Fidelity, but on the contrary, when he falls into his hands muſt expect the fate of baſe Deſerters.</p>
+            <p>That's the ſecond Reaſon of St. <hi>Paul</hi>'s choice of this Character, <hi>The Priſoner of the Lord.</hi> He here<g ref="char:EOLhyphen"/>in gives an Inſtance of his being conformed to the <hi>Captain of our Salvation,</hi> of his being made <hi>partaker of the ſufferings of Christ.</hi> Which muſt mightily recommend him to the good Opinion, and Affecti<g ref="char:EOLhyphen"/>ons of all good Chriſtians.</p>
+            <p n="3">3ly. Herein he ſhews his reſemblance to the <hi>noble Army of Martyrs,</hi> the early Sufferers before the Incarnation. Whoſe Martyrology, whoſe re<g ref="char:EOLhyphen"/>nowned ſufferings are compendiouſly hiſtorified
+<pb n="11" facs="tcp:104295:8"/>in the 11th to the <hi>Hebrews:</hi> which tells us that <hi>by Faith Moſes when he was come to years, refuſed to be called the Son of Pharaoh's Daughter, chooſing ra<g ref="char:EOLhyphen"/>ther to ſuffer affliction with the People of God, than to enjoy the pleaſures of Sin for a Seaſon; eſteeming the reproach of Chriſt greater Riches than the Treaſures in Egypt: for he had reſpect unto the recompence of reward. By faith he forſook</hi> Egypt, <hi>not fearing the wrath of the King: for he endur'd as ſeeing him who is inviſible. Others were tortur'd not accepting delive<g ref="char:EOLhyphen"/>rance, that they might obtain a better Reſurrection. And others had tryal of cruel mockings and ſcourgings, yea, moreover of Bonds and Impriſonment. They were ſtoned, they were ſawn aſunder, were tempted, were ſlain with the Sword: they wandred about in Sheep-skins and Goat-skins, being deſtitute afflicted, tormented<g ref="char:punc">▪</g> Of whom,</hi> ſays the Hiſtorian, <hi>the World was not worthy. They wandred in Deſerts, and in Mountains, and in Dens, and Caves of the Earth.</hi> Theſe were the <hi>Proto Martyrs,</hi> the early Sufferers before the In<g ref="char:EOLhyphen"/>carnation. To whom our Apoſtle ſhews his re<g ref="char:EOLhyphen"/>ſemblance by this Character of <hi>the Priſoner of the Lord.</hi>
+            </p>
+            <p n="4">4ly. Hereby he gives an evidence of his fellow<g ref="char:EOLhyphen"/>ſhip with the ſuffering Saints and Martyrs ſince the Incarnation and Crucifixion of <hi>Chriſt.</hi> Here<g ref="char:EOLhyphen"/>by he declares his fellowſhip with that bold coura<g ref="char:EOLhyphen"/>gious Sufferer, St. <hi>John the Baptiſt,</hi> who was a Pri<g ref="char:EOLhyphen"/>ſoner and a Martyr in his confinement: With St. <hi>Stephen,</hi> the glorious <hi>Proto Martyr</hi> after the Aſ<g ref="char:EOLhyphen"/>cenſion of our Lord; to whoſe death St. <hi>Paul</hi> was not only a Witneſs but an Aſſiſtant too, conſenting
+<pb n="12" facs="tcp:104295:9"/>unto his death: with all thoſe ſufferings Chriſti<g ref="char:EOLhyphen"/>ans whom he himſelf had perſecuted, <hi>breathing out threatnings and ſlaughter againſt the Diſciples of the Lord, and being exceedingly mad againſt them, cauſed them to blaſpheme; making havock of the Church, halling Men and Women, committed them to Priſon,</hi> where he himſelf is now their joyful Com<g ref="char:EOLhyphen"/>panion.</p>
+            <p n="5">5ly. 'Tis a Preſumption, if not a Demonſtration of the Truth of that Doctrine which he taught and delivered. There are two ways of confirming any Revelation from Heaven; <hi>Miracles</hi> and <hi>Suf<g ref="char:EOLhyphen"/>fering.</hi>
+            </p>
+            <p>Now by both theſe our <hi>Saviour</hi> confirm'd his Doctrine, eſpecially by the former: and the Apo<g ref="char:EOLhyphen"/>ſtles more eſpecially by the latter, who therefore were call'd <hi>Martyrs,</hi> that is, witneſſes to the Truth of the Goſpel by their ſufferings. Which gain'd mighty Credit and Reputation to it; which drew on multitudes of Diſciples, brought in ſholes of Pro<g ref="char:EOLhyphen"/>ſelytes, according to the old Obſervation, that <hi>the Blood of the Martyrs is the Seed of the Church.</hi> He that dares ſuffer for his Religion, that can ſuffer Bonds, and Impriſonment, and death, for <hi>Chriſt,</hi> that can ſuffer the loſs of his Goods and Eſtate, his Livelihood and his Life, for the Doctrine he deli<g ref="char:EOLhyphen"/>vers, gives a Preſumption that it is true, and that he believes it to be ſo. But if when he is call'd to ſuffer, he ſtarts aſide like a broken Bow, and will rather deny his Doctrine or Religion, than ſuffer in the defence of it, it expoſes the Credit of it, gives a ground of ſuſpition that it is not
+<pb n="13" facs="tcp:104295:9"/>true, at leaſt 'tis an Argument that he himſelf does not believe it. Our <hi>Saviour</hi> tells us of ſome, St. <hi>Luk.</hi> 8.13. that are like the ſtony Ground, who receive the word with joy, but in time of temptation fall away. The time of Perſecution, is the time of Temptation, the time of Tryal; which like the cold froſty Air, meliorates and is advantagious to ſound, but pernitious to ſickly, unhealthy Bodies, which makes 'em languiſh and die away: or rather like the ſtronger Wind, which ventilates, and fans, and cleanſes the ſolid Grain, but drives the Chaff, and the empty, lighter Corns a way.
+<note place="margin">
+                  <hi>Mat.</hi> 3.12.</note> So <hi>John</hi> the <hi>Baptiſt</hi> uſes the Simi<g ref="char:EOLhyphen"/>litude concerning <hi>Chriſt: Whoſe Fan,</hi> ſays he, <hi>is in his hand, and he will thoroughly purge his Floor,</hi> &amp;c. There is a time when <hi>Chriſt,</hi> the Maſter and Owner of the <hi>great Threſhing Floor,</hi> the <hi>Church,</hi> takes his <hi>Fan</hi> in his Hand, and by the Wind of Perſecution does <hi>purge his Floor;</hi> the <hi>Chaff</hi> flies away, which lay mingled amongſt the <hi>Wheat,</hi> but it fans, and cleanſes, and diſcovers the purer ſolid Grain, which he gathers into his <hi>Garner, but will burn up the Chaff with unquenchable Fire.</hi>
+            </p>
+            <p>The Apoſtles and their ſuffering Brethren were this purer Wheat, that could endure the blowing, and fanning, and cleanſing of the Wind, whilſt many others like <hi>Chaff</hi> were too light for the Diſci<g ref="char:EOLhyphen"/>pline of the Wind, could not endure the violent Breath, but were inſtantly blown away. Bleſſed is the Man, ſays St. <hi>James,</hi> that endureth Temptati<g ref="char:EOLhyphen"/>on, <hi>i. e.</hi> the time of Tryal. He is an Honour to the Goſpel, a Comfort to himſelf, and a Bulwark
+<pb n="14" facs="tcp:104295:10"/>to Religion. Who will believe that Man that does not believe himſelf? And how does that Man believe himſelf that dares not ſuffer in defence of that Doctrine which he has taught and deli<g ref="char:EOLhyphen"/>ver'd? But he that can ſay and ſuffer, that dares do and die in purſuance and defence of his Doctrine and Religion; why the Beholders of his reſolute conſtancy and paſſive valour will conclude that there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome ſpark of Di<g ref="char:EOLhyphen"/>vinity in this, that there is ſomewhat extraordi<g ref="char:EOLhyphen"/>nary, ſome beams of Truth here, which naturally beſpeak Credit and Eſteem.</p>
+            <p>The <hi>Devil</hi> has obſerv'd long ago that <hi>Skin for Skin,</hi>
+               <note place="margin">
+                  <hi>Job.</hi> 2.4.</note> 
+               <hi>and all that a Man hath will he give for his Life.</hi> But he that dares part not only with his Livelihood, but his Life too, in defence of his Doctrine and Religion, convincingly perſwades Mankind to believe the Truth of it, and that the Sufferer believes it too; in defence of which he will venture ſo great a Stake, pay down ſo large a <hi>Praemium,</hi> in lieu of which certainly he is aſ<g ref="char:EOLhyphen"/>ſur'd of ſomewhat that is far better, of a much more abundant Recompence. He certainty moſt firmly believes the Doctrine of the Goſpel, and of future rewards and puniſhments, who dares ſuffer rather than ſin againſt the Revealer and Diſpenſer of them. St. <hi>Paul</hi> dares ſuffer Impriſon<g ref="char:EOLhyphen"/>ment, and the loſs of Liberty, and Eſtate, and Life, whilſt Impoſtors, and Cheats, and Pſeudo-Apoſtles boaſt and talk, but dare not ſuffer or die, but are guilty of baſe Tergiverſation, turning their backs upon the Truth, which they renounce and deny, when they are put to the Teſt, to
+<pb n="15" facs="tcp:104295:10"/>the ſevere Tryal, and critical point of ſuf<g ref="char:EOLhyphen"/>fering.</p>
+            <p>That's the fifth Reaſon of St. <hi>Paul</hi>'s choice of this Character to recommend himſelf by, and en<g ref="char:EOLhyphen"/>force his following Exhortation—<hi>The Priſoner of the Lord</hi>—Which is a Preſumption, if not a De<g ref="char:EOLhyphen"/>monſtration of the Truth of that Doctrine which he taught and deliver'd.</p>
+            <p n="6">6ly. and <hi>Laſtly,</hi> Suffering is the Touch-ſtone of Vertue, and the Tryal of Sincerity. This <hi>he</hi> very well knew who knows the Heart, and the workings of it; and therefore was pleas'd to put his Servant <hi>Job</hi> into the School of Affliction, and to try him with Adverſity: Not that he wanted a diſcovery himſelf, but to ſilence the Calumnies and Reproaches of the <hi>Devil</hi> and his Inſtruments, who were ready to object againſt the Character and Elogy which God gave of him,—Doth <hi>Job</hi> fear God for naught? as we read in that famous Dialogue between <hi>God</hi> and the <hi>Devil,</hi> in the firſt Chapter of the Book of <hi>Job</hi> at the 6th. Verſe; <hi>Now there was a day when the Sons of God,</hi> i. e. <hi>the Angels came to preſent themſelves before the Lord, and Satan,</hi> the Arch-Devil, the Preſident of the black Society, <hi>came alſo among them. And the Lord ſaid unto Satan, whence comeſt thou? Then Satan anſwer'd, from going too and fro in the Earth, and from walking up and down in it. And the Lord ſaid unto Satan haſt thou conſider'd my Servant</hi> Job, <hi>that there is none like him in the Earth, a perfect and an upright Man, one that feareth God and eſcheweth
+<pb n="16" facs="tcp:104295:11"/>Evil? Then Satan anſwer'd the Lord and ſaid, Doth Job fear God for nought? Haſt not thou made an Hedge about him, and about his Houſe, and about all that he hath on every ſide? thou haſt bleſſed the Work of his Hands, and his ſubstance is increaſed in the Land. But put forth thy Hand, and touch all that he hath, and he will curſe thee to thy Face. And the Lord ſaid unto Satan, behold all that he hath is in thy Power, only upon himſelf put not forth thine Hand.</hi> Which leave no ſooner given, but he im<g ref="char:EOLhyphen"/>proves it to the utmoſt; the Commiſſion granted wanted not a ſharp and ſpeedy Execution. <hi>So Satan,</hi> ſays the Text, <hi>went forth from the Preſence of the Lord, to vex and afflict the Saint, and play'd the Devil indeed;</hi> ſtirring up the <hi>Sabeans,</hi> and <hi>Caldeans,</hi> the <hi>Fire</hi> and the <hi>Winds</hi> againſt him; opening the Treaſury, the Magazines of the Air (of which he is emphatically call'd, the <hi>Prince</hi>) diſcharging the Artillery of Heaven againſt him; making ſore and lamentable havock in his Eſtate, in his Goods, and his Children; leaving him in a manner as naked as the World receiv'd him.</p>
+            <p>Well, but what effect had this upon <hi>Job?</hi> Did he curſe God to his face, as the <hi>Devil</hi> ſaid he would? No, but he behav'd himſelf with meekneſs, and humility, and reſignation to the Sovereign Will, exerciſing Faith, and Patience, and Truſt in God. <hi>He aroſe and rent his Mantle</hi> (a token of Sorrow, being a Stranger to the <hi>Stoical Apathy) and ſhaved his Head, and fell down upon the Ground and worſhipped, and ſaid, naked came I out of my Mother's Womb, and naked ſhall I return thither.</hi> It follows, <hi>In all this Job ſinned not, nor charged God fooliſhly.</hi>
+            </p>
+            <pb n="17" facs="tcp:104295:11"/>
+            <p> But tho! the <hi>Devil</hi> was foil'd and deceived here, ſhamefully baffled and diſappointed as to his ex<g ref="char:EOLhyphen"/>pectation, yet he makes another Effort, reſolves to try once more. And to that end preſents him<g ref="char:EOLhyphen"/>ſelf before the Lord upon a ſolemn Day amongſt the Angels: chap. 2. <hi>And the Lord ſaid unto him,</hi> v. 3. <hi>Haſt thou conſider'd my Servant Job, that there is none like him in the Earth, a perfect and an up<g ref="char:EOLhyphen"/>right Man, one that feareth God and eſcheweth Evil? and ſtill he holdeth faſt his integrity, although thou movedſt me againſt him to deſtroy him without cauſe. And Satan anſwer'd the Lord and ſaid, Skin for Skin, yea all that a Man hath will he give for his life. But put forth thine hand now, and touch his bone and fleſh, and he will curſe thee to thy face. And the Lord ſaid, behold he is in thine hand, but ſave his Life. So Satan went forth from the peſence of the Lord, and ſmote Job with ſore Boils from the Sole of his Foot unto his Crown.</hi>
+            </p>
+            <p>And fearing that he was not <hi>Devil</hi> enough with all his Dragon-like violence to prevail with <hi>Job</hi> to curſe God, he employs an <hi>Incarnate Devil,</hi> ſtirr'd up his Wife againſt him, his Boſom Com<g ref="char:EOLhyphen"/>panion, hoping that her Perſwaſions and Temp<g ref="char:EOLhyphen"/>tations would be as charming and prevalent, as thoſe of <hi>Eve</hi> were on her Husband <hi>Adam. Then ſaid his Wife unto him, doſt thou ſtill retain thine integrity? curſe God and dye. But he ſaid unto her, Thou ſpeakeſt as one of the fooliſh Women ſpeaketh. What? ſhall we receive good at the hand of God and ſhall we not receive Evil?</hi> It follows, <hi>In all this Job did not ſin with his Lips:</hi> but ſtill exercis'd
+<pb n="18" facs="tcp:104295:12"/>Faith, and Patience, and Truſt, and Affiance in <hi>God. Though he kill me,</hi> ſays he, <hi>yet will I truſt in him.</hi> Vertue in a good Man ſhines the brighter for being clouded with Adverſity: of which <hi>Job</hi> was an illuſtrious Inſtance and Example.</p>
+            <p>Adverſity was ever eſteem'd amongſt the an<g ref="char:EOLhyphen"/>cient Philoſophers to be the Touch ſtone of Ver<g ref="char:EOLhyphen"/>tue,
+<note place="margin">
+                  <hi>Magnum Ex<g ref="char:EOLhyphen"/>emplum niſi mala fortuna non invenit.</hi> Sen. de Prov. c. 3.</note> and the Tryal of Sincerity: No very Exem<g ref="char:EOLhyphen"/>plary Vertue, they thought, could well appear otherwiſe than in notable misfortune: 'Twas ſo in the Opinion of <hi>Socrates, Plato, Diogenes, Seneca, Cicero,</hi> and other ancient Philoſophers: who did not ſhrink at Adverſity, but ſhew'd a greatneſs and preſence of Mind, ſutable to their ſufferings. Their Vertue did not flag, or wither, or fall by thoſe bluſtring Winds. Adverſity is like a tempeſtuous Wind which trys the ſtrength of Trees: thoſe which are rotten at the Heart, or Root, it breaks and throws down; but thoſe which are ſound are the more confirm'd, the more firmly rooted by thoſe violent ſhakings.</p>
+            <p>To approve a man truly vertuous,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. de Rep. 2.</note> and heartily righteous, ſays an ancient Writer, he muſt be exercis'd with all the Inſtances of Adverſity; not only in his Goods, but his good Name, not only his Eſtate, but his Body and Life. He muſt endure all the Inſtances of Cruelty, he muſt be impriſon'd, and put upon the Rack, and tortur'd and ſcourg'd, and have his Eyes burn'd out, ſuffer the pains of Fire, and at laſt be impaled or dye upon a <hi>Croſs.</hi>
+            </p>
+            <pb n="19" facs="tcp:104295:12"/>
+            <p> It was the Cup of Poyſon, ſays <hi>Seneca,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Cicuta Mag<g ref="char:EOLhyphen"/>num Socratem fecit.</hi> Sen. Ep. 13.</p>
+                  <p>
+                     <hi>Calix venena<g ref="char:EOLhyphen"/>tus, qui Socra<g ref="char:EOLhyphen"/>tem tranſtulit e Carcere in Caelum.</hi> Id. Ep. 67.</p>
+                  <p>
+                     <hi>Aequalis fuit intanta inaequa<g ref="char:EOLhyphen"/>litate fortunae,</hi> &amp;c. Id. Ep. 104. <hi>Rutilij Inno<g ref="char:EOLhyphen"/>centia ac virtus lateret, niſi accepiſſet inju<g ref="char:EOLhyphen"/>riam; dum violatur efful<g ref="char:EOLhyphen"/>ſit.</hi> Id. Ep. 79.</p>
+               </note> which made <hi>Socrates</hi> a Great man, and which out of Priſon did transfer him to Heaven, or did procure to him that lofty eſteem; offering opportunity to ſignalize his conſtancy, his equanimity, his un<g ref="char:EOLhyphen"/>concernedneſs for this World and Life. And the Vertue, ſays he, and the innocence of <hi>Rutilius</hi> would have lain hid, if it had not, by condemna<g ref="char:EOLhyphen"/>tion and exile, received injury; while it was violated it brightly ſhone forth. And he that ſaid this of others, was himſelf in nothing ſo il<g ref="char:EOLhyphen"/>luſtrious, as in handſomely entertaining that death to which he was adjudged by the bloody Tyrant. And generally the moſt honourable Perſons, in the Judgment of Poſterity, for gal<g ref="char:EOLhyphen"/>lant worth, to this very end, (as
+<note n="*" place="margin">
+                  <hi>Sen. de</hi> Prov. 2.3. <hi>Plut. de Stoic. Contr.</hi> Ep. 1931.</note> ſuch Philo<g ref="char:EOLhyphen"/>ſophers teach) were by Divine Providence deli<g ref="char:EOLhyphen"/>ver'd up to ſuffer opprobrious condemnations and puniſhments by the ingrateful malignity of their times. He's a vertuous Man indeed that can en<g ref="char:EOLhyphen"/>dure all this rather than renounce his Vertue and Integrity. And ſuch vertuous Men, ſuch ſtout couragious Sufferers the World has yeilded, and that both amongſt the Heathens, and in the Church of God, of which our Saviour, and the Prophets, and Apoſtles, and Martyrs were glorious and illuſtrious Inſtances.</p>
+            <p>Thus you ſee that 'twas for very good and wiſe Reaſons that our Apoſtle choſe this Cha<g ref="char:EOLhyphen"/>racter, <hi>the Priſoner of the Lord.</hi>
+            </p>
+            <pb n="20" facs="tcp:104295:13"/>
+            <p> And now what Improvement ſhould we make of this, but to apply it to our ſelves in three or four particulars.</p>
+            <p n="1">1ſt. Let us not be ſcandaliz'd at <hi>ſuffering,</hi> or in<g ref="char:EOLhyphen"/>ſult over thoſe that ſuffer.</p>
+            <p>Let us not be offended at <hi>ſuffering.</hi> 'Tis the Lot of the Righteous in this World: the Church's Patrimony, the Portion of the People of God. <hi>The Seed of the Woman,</hi> 'tis promis'd, <hi>ſhall bruiſe the Serpent's Head,</hi> but 'tis threaten'd, that <hi>it ſhall bruiſe his Heel.</hi> Though the former is more fa<g ref="char:EOLhyphen"/>tal, yet the latter is no leſs painful; of which the <hi>Seed of the Woman,</hi> and it's <hi>genuine Off-ſpring</hi> have been, and are ſadly ſenſible. Though <hi>God</hi> has aſſur'd the Church that his Grace is ſufficient for her, yet ſhe muſt expect <hi>a Thorn in the Fleſh, the Meſſenger of Satan to buffet her.</hi> Though he has promis'd to tread <hi>Satan</hi> under her Feet ſhortly, yet in the Interim the Dragon bites with his Mouth, and fights with his Tayl, and ſtings, and wounds, and torments the Fleſh. Though the Church is the care of Heaven, and the darling of Providence, yet ſhe is ſometimes like her Lord, driven into the <hi>Wilderneſs,</hi> there to be tempted, and perſecuted by the <hi>Devil.</hi> Though ſometimes ſhe is clad with Purple, embrac'd in the Arms, and ſits upon the Throne with Princes, whom God makes her <hi>nurſing Fathers,</hi> yet there is a time when you will find her, with <hi>Job,</hi> upon the Dunghil, there ſitting in her mourning Weeds, ſighing, and groaning, and uttering her complaints
+<pb n="21" facs="tcp:104295:13"/>in the moſt doleful Accents, <hi>Behold all ye that paſs by, and ſee if there be any ſorrow like unto my ſorrow!</hi> Which we muſt not wonder at; for Tribulation is the Way to Glory. <hi>Through many Tribulations we muſt enter into the King<g ref="char:EOLhyphen"/>dom of Heaven.</hi> This is the common Road, which our <hi>Saviour</hi> and the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles went to Heaven in. Chriſtians are Croſs<g ref="char:EOLhyphen"/>bearers. They wear it from the Font to their Funeral; from the Laver to the Sepulchre. Their Baptiſm of Water is often ſeconded with Baptiſm of Blood. The Croſs is not only the Ornament of the Fore-head, but the Burden of the Shoulder too. <hi>If any one will be my Diſ<g ref="char:EOLhyphen"/>ciple,</hi> ſays our bleſſed Lord, <hi>Let him deny him<g ref="char:EOLhyphen"/>ſelf and take up his Croſs and follow me.</hi> A Text, which has often ſounded in your Ears, and has been learnedly and paſſionately im<g ref="char:EOLhyphen"/>prov'd in many excellent melting Sermons; but alas! by men rather skill'd in the <hi>Theory,</hi> than the <hi>Practiſe,</hi> in the <hi>Art</hi> of <hi>painting</hi> the <hi>Croſs,</hi> than <hi>bearing</hi> it; in the Charms of <hi>tragical Eloquence,</hi> and moving the Paſſions, than the exerciſe of Chriſtian <hi>Patience.</hi> To whom I am ſorry that Character of St. <hi>John</hi>'s Sufferers in the <hi>Revelation</hi> does not belong;
+<note place="margin">
+                  <hi>Rev.</hi> 14.12.</note> 
+               <hi>Here's the Patience of the Saints; here are they that keep the Command<g ref="char:EOLhyphen"/>ments of God, and the Faith of Jeſus.</hi>—We have had excellent Diſcourſes of <hi>ſuffering</hi> and of <hi>patience,</hi> of bearing the <hi>Croſs</hi> for the ſake of <hi>Chriſt,</hi> but few Examples of it. We have had Teachers too much of the <hi>Phariſaick</hi> Tem<g ref="char:EOLhyphen"/>per,
+<pb n="22" facs="tcp:104295:14"/>
+               <hi>binding heavy burdens, and grievous to be born, and laying them on Mens Shoulders, which they themſelves will not move with one of their Fingers.</hi>
+            </p>
+            <p>But 'tis not enough to talk of the <hi>Croſs,</hi> but we muſt take it up. <hi>If any one will be my Diſciple, let him deny himſelf, and take up his Croſs</hi>—He muſt neither be offended at, nor yet deſpiſe it, or thoſe that bear it. 'Tis a mark of an unchriſtian Spirit to inſult over thoſe that ſuffer for <hi>Conſcience</hi> ſake. 'Tis to ſit down in the Seat of the Scornful, and partake with thoſe, from whom the primitive Sufferers had <hi>tryal of cruel mockings.</hi> They who inſult over, ſcoff at, and deſpiſe thoſe that ſuffer for Conſcience ſake, for their conſtant Adherence to the Principles of Faith, and the Truth of the Goſpel, and the Laws of God, would have done the ſame (had they been then living) to <hi>Jeſus Chriſt,</hi> and his Apoſtles and Martyrs, who ſuffered for <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> ſake.</p>
+            <p n="2">2dly. Let us rather chooſe to ſuffer than to ſin. Of which choice <hi>Moſes</hi> has given us a Pre<g ref="char:EOLhyphen"/>ſident and Example, <hi>Heb.</hi> 11.25.—<hi>Chooſing rather to ſuffer Afflicton with the People of God than to enjoy the pleaſures of Sin for a Seaſon.—Chooſing rather</hi>—None would chooſe to ſuffer Affliction could he honeſtly avoid it: For <hi>no Affliction for the preſent ſeemeth to be joyous but grievous.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.11.</note> 'Tis a Thorn in the Fleſh, which throbs and akes. But better be prick'd with
+<pb n="23" facs="tcp:104295:14"/>thoſe wounding Thorns than <hi>kick againſt the Pricks.</hi> Better walk upon Thorns to <hi>Paradiſe,</hi> though they wound and tear the Fleſh, than through flowery Meadows and upon beds of Roſes, which lead to the <hi>Precipice,</hi> to the horrid <hi>Abyſs</hi> of Deſtruction. Better to ſuffer affliction for a Seaſon, which will end in Eternal Joy, than to enjoy the pleaſures of Sin for a Seaſon, which will end in Eternal Pain. When ſin and ſuffering come in competition, 'tis bet<g ref="char:EOLhyphen"/>ter to chooſe to ſuffer than to ſin. <hi>Chooſing ra<g ref="char:EOLhyphen"/>ther to ſuffer affliction with the People of God than to enjoy the pleaſures of Sin</hi>—Alas! what are the pleaſures of Sin? They are vain and empty, and ſhort, they are but for a Seaſon.</p>
+            <p n="3">3dly. Inſtead of declining or repining at ſuf<g ref="char:EOLhyphen"/>fering, when our Maſter by his Providence calls us to it, let us rejoyce that he accounts worthy to ſuffer for his ſake. So did St. <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 16.</note> and his Companion <hi>Silas,</hi> who were fellow-Priſoners at <hi>Philippi,</hi> where they are ſo overjoy'd with the honour of ſuffering for Chriſt, that after their hard and cruel uſage by the Magiſtrates, <hi>who rent off their clothes, and caus'd them to be beaten and laid many ſtripes upon them,</hi> and then thruſt 'em into the <hi>inner Priſon,</hi> the dark and naſty Dun<g ref="char:EOLhyphen"/>geon, and <hi>made their feet faſt in the Stocks,</hi> a cold, comfortleſs lodging, an uneaſie Seat for ſore, wounded Men; yet, I ſay, they were ſo tranſported with Joy, though in that pitiful plight, thoſe lamentable Circumſtances, that
+<pb n="24" facs="tcp:104295:15"/>they ſang at Midnight with the loudeſt Notes; which alarm'd and awaken'd the Priſoners—<hi>They pray'd and ſang Praiſes unto God;</hi> they found greater comfort, and mirth, and joy, and peace in their Priſon, than their Perſecutors did in their Palaces. So bleſſed and joyful a thing it is to ſuffer for Chriſt, as he himſelf aſſures us,
+<note place="margin">
+                  <hi>Mat.</hi> 5.10, 11, 12.</note> 
+               <hi>Bleſſed are they which are perſecuted for righte<g ref="char:EOLhyphen"/>ouſneſs ſake. Bleſſed are ye when Men ſhall revile you, and perſecute you, and ſhall ſay all manner of evil againſt you falſly for my ſake. Rejoyce and be exceeding glad: for great is your Reward in Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p n="4">4thly. That we may not loſe the Reward of our <hi>ſufferings,</hi> let us be ſure that our <hi>ſufferings</hi> are ſufferings for <hi>Chriſt.</hi> And to that end let us look to three things.</p>
+            <p n="1">1ſt. That we ſuffer for a <hi>good Cauſe.</hi>
+            </p>
+            <p n="2">2dly. That our ſuffering proceeds from a <hi>right Principle.</hi>
+            </p>
+            <p n="3">3dly. That it be directed to a <hi>right End.</hi>
+            </p>
+            <p n="1">1ſt. We muſt be ſure that we ſuffer for a <hi>Good Cauſe.</hi> All ſuffering is not ſuffering for <hi>Chriſt.</hi> There is a ſuffering Adverſity which ac<g ref="char:EOLhyphen"/>cidentally befalls men, which they cannot avoid, as loſſes, and croſſes, and poverty, and wounds, and ſickneſs, <hi>&amp;c.</hi> There is ſuffering as an Evil doer, for breaking the Laws of God and Man by Theft, Murder, Treaſon, Rebellion, <hi>&amp;c.</hi>
+               <pb n="25" facs="tcp:104295:15"/>This is not ſuffering for <hi>Chriſt,</hi> tho' perhaps there are ſome ſo harden'd as to think ſo; who think killing, and murder, and Rebellion, and Reſi<g ref="char:EOLhyphen"/>ſtance, and Regicide; to play the <hi>Devil</hi> for God ſake, <hi>is to do God ſervice.</hi> But ſuffering for Chriſt, ſuffering as a Chriſtian, as St. <hi>Peter</hi> ſpeaks, is a ſuf<g ref="char:EOLhyphen"/>fering which we may avoid by violating our Du<g ref="char:EOLhyphen"/>ty, and renouncing our Vertue and Integrity. If we chooſe to ſuffer rather than to ſin, and depart from our plain, known Duty to God revealed in his Word, and written in his Law with the Pen of a Diamond, this is to ſuffer for <hi>Chriſt,</hi> and with <hi>Chriſt;</hi> this is to ſuffer as a Chriſtian. For 'tis not the <hi>Puniſhment,</hi> but the <hi>Cauſe</hi> that makes the <hi>Martyr.</hi>
+            </p>
+            <p n="2">2dly. Our ſuffering muſt proceed from a <hi>right Principle, viz.</hi> the Love of God and his Laws, the love of Vertue and a hatred of Vice. For he that has a ſecret Love for any Vice, yea, that has not an univerſal hatred and abhorrence of all ſin, becauſe a Violation of the Law of God; his ſuffering, whatſoever it be, is not a ſuffering for <hi>Chriſt.</hi> He that ſuffers for his conſtant and reſolute adherence to any one Ar<g ref="char:EOLhyphen"/>ticle of Faith, or Principle of Religion, or Doctrine of our Church, or any particular Law of God, and yet allows himſelf in groſs and notorious ſins, does not ſuffer as a Chriſti<g ref="char:EOLhyphen"/>an. For there muſt be no commuting in Reli<g ref="char:EOLhyphen"/>gion. The performance of one Duty, cannot expiate for the neglect, or violation of ano<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="26" facs="tcp:104295:16"/>
+            <p> Thus, for inſtance, he that ſuffers for his Allegiance to his King, and yet will violate his Allegiance to his God, who is King of Kings, ſuffers as a Fool. If he dies in his Prince's quar<g ref="char:EOLhyphen"/>rel, and ſacrifices his Life for his ſake, he does but offer the ſacrifice of Fools. His ſuffering is not thank worthy in God's account: 'tis not a ſuffering for <hi>Chriſt,</hi> or as a Chriſtian, though in defence of a Chriſtian Principle. Such a Mar<g ref="char:EOLhyphen"/>tyr, 'tis to be fear'd, will dwell in the ſame hotter Region, will go to the ſame place, where the Soul of his Perſecutor does. For, alas! what will it avail a man that he will not ſwear falſly, if he will ſwear raſhly, and blaſpheme his Maker and Redeemer? what will it avail a Man that he will not rebel againſt his Temporal Prince, and yet will daily rebel againſt his God; that he will not reſiſt the <hi>lawful Higher Powers,</hi> and yet will always reſiſt the <hi>Holy Ghoſt,</hi> and <hi>grieve the good Spirit of God, which is ſent to ſeal him to the day of Redemption?</hi> what will it avail a Man to be a good Subject and a bad Chriſtian, (if that be not a contradiction) a Friend to the King, and an Enemy to God; to drink a Health to his Prince, and Damnation to his Soul by his rioting, and exceſs, and prodigious debauchery?</p>
+            <p>What will it avail a Man to believe rightly all the Articles of the Chriſtian Faith, and yet be a Stranger to good Works; to believe in God, and yet not keep his Commandments? What will it avail a man to diſpute againſt, or ſuffer for not believing <hi>Tranſubſtantiation,</hi> when
+<pb n="27" facs="tcp:104295:16"/>he is <hi>guilty of the Body and Blood of the Lord, which he receives unworthily;</hi> tramples <hi>under foot the Son of God, crucifies him a freſh, and puts him to an open ſhame?</hi>
+            </p>
+            <p>He that ſuffers for one Principle, and violates his duty to the reſt, ſuffers rather for his <hi>Hu<g ref="char:EOLhyphen"/>mour</hi> than for <hi>Chriſt,</hi> rather as an obſtinate man, than a reſolute, humble, conſcientious, pious Chriſtian, who with <hi>David</hi> can aſſure himſelf, that he ſhall not be aſhamed, but have his ſure reward, having <hi>reſpect unto all the Command<g ref="char:EOLhyphen"/>ments;</hi> or rather, in the Language of the Apoſtle here, <hi>walking worthy of the Vocation wherewith he is called.</hi>
+            </p>
+            <p n="3">3dly. and <hi>Laſtly.</hi> That we may not loſe the Reward of our ſufferings, they muſt be directed to a <hi>right end,</hi> viz. God's Glory. It muſt not be for Oſtentation ſake, to be accounted a ſtout, couragious Champion for <hi>Chriſt,</hi> a va<g ref="char:EOLhyphen"/>lorous <hi>Chriſtian Hero.</hi> This will defile the Sacrifice, and make it ſtink in the Noſtrils of God. <hi>Not unto us, not unto us, O Lord, but to thy Name be the Glory,</hi> whether we do or ſuffer for thee, muſt be the Language of the Church, and every Member of it. And this will perfume the Sacrifice, and make it aſcend like the ſmoking Incenſe into God's Holy Temple, where the Celeſtial Chorus of An<g ref="char:EOLhyphen"/>gels, and Saints, and Martyrs continually do ſing, <hi>Holy, Holy, Holy, Lord God Almighty,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 4.8. V. 2.11.</note> 
+               <hi>which was, and is, and is to come. Thou art wor<g ref="char:EOLhyphen"/>thy,
+<pb n="28" facs="tcp:104295:17"/>O Lord, to receive Glory, and Honour, and Power.</hi>
+               <note place="margin">
+                  <hi>C.</hi> 7.12.</note> 
+               <hi>Bleſſing, and Glory, and Wiſdom, and Thankſgiving, and Honour, and Power, and Might be unto our God for ever and ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104295:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
